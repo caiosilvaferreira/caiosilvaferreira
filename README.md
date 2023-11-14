@@ -4,6 +4,7 @@
 ![Caio GitHub](https://github-readme-stats.vercel.app/api?username=caiosilvaferreira&show_icons=true&theme=radical)
 
 ## Tecnologias que tenho experiência:
+OBS: tenho experiencia com outras tecnologias, peço paciência para visualizar os projetos caso tenha interesse.
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=bl"/>
@@ -16,7 +17,7 @@
 
 ## OBS:
 
- Azure DevOps aprendi recentemente, Css e Html fiz algumas coisas, mas não tenho me aprofundado. DDD e SOLID são temas que tenho ultilizado bastante no meus estudos e aplicações.
+ tenho bastante projetos pessoais com aplicação no aspNet, utilizo interfaces, injeção de dependencia etc... não vou extender muito, uma das coisas que mais faço também no gitHub seria documentação de tudo o que tenho feito e aprendido, tenho a intenção de ajuda pessoas que não conseguem pagar cursos mais caros financeiramente, aos poucos vou postar todas as tecnologias relacionado ao .Net e o back-end
 <br/><br/>
 
 ![Caio GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilvaferreira&theme=blue-green)
