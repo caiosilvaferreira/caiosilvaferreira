@@ -5,6 +5,7 @@
 
 ## Tecnologias que tenho experiência:
 OBS: tenho experiencia com outras tecnologias, peço paciência para visualizar os projetos caso tenha interesse.
+<br/>
 Tenho projetos do nivel iniciante ao avançado e a cada semana vou atualizando os repositorios e projetos.
 
 <div style="display: inline_block"><br/>
