@@ -5,6 +5,7 @@
 
 ## Tecnologias que tenho experiência:
 OBS: tenho experiencia com outras tecnologias, peço paciência para visualizar os projetos caso tenha interesse.
+Tenho projetos do nivel iniciante ao avançado e a cada semana vou atualizando os repositorios e projetos.
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=bl"/>
